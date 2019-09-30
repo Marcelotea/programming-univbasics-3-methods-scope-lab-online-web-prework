@@ -9,4 +9,3 @@ end
 def tracer
   status = 'cheers love'
   puts phrase
-end
